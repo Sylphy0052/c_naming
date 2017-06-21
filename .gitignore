@@ -1,0 +1,6 @@
+*.class
+v6sh
+CMakeCache.txt
+CMakeFiles/*
+cmake_install.cmake
+Makefile
