@@ -1,0 +1,3 @@
+/Users/Kento/GitHub/c_naming/CMakeFiles/rebuild_cache.dir
+/Users/Kento/GitHub/c_naming/CMakeFiles/edit_cache.dir
+/Users/Kento/GitHub/c_naming/CMakeFiles/v6sh.dir
